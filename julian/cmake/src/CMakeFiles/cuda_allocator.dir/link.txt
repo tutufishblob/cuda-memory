@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_allocator.a CMakeFiles/cuda_allocator.dir/cuda/RBTree.cu.o CMakeFiles/cuda_allocator.dir/cuda/poolAllocBST.cu.o
+/usr/bin/ranlib libcuda_allocator.a

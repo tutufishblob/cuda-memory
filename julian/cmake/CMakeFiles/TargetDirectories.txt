@@ -1,0 +1,12 @@
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/CMakeFiles/test.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/CMakeFiles/edit_cache.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/CMakeFiles/rebuild_cache.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/src/CMakeFiles/cuda_allocator.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/src/CMakeFiles/test.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/src/CMakeFiles/edit_cache.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/src/CMakeFiles/rebuild_cache.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/tests/CMakeFiles/fuzzy-test-gpu-julian-impl.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/tests/CMakeFiles/test-cuda-julian-impl.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/tests/CMakeFiles/test.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/tests/CMakeFiles/edit_cache.dir
+/home/tutu/RESEARCH/cuda-memory/julian/cmake/tests/CMakeFiles/rebuild_cache.dir
